@@ -58,5 +58,5 @@ respective GIFs of the Phrase.
 ##Result
 The amount of time it took the translator to convert speech to sign language using the command line has been recorded. Depending on the length of the sentence we speak, the speech recognizer takes time. Converting the text into a sentence takes only a short amount of time during the text analysis.It takes 18.80 seconds to convert the speech “Hello,Good Evening” to sign language (from the start of audio recording to translation).
 
-The project before enhancement and modification was cloned from <a href = "https://github.com/ias1501/Speech-To-Sign-Language-Translator-For-Hearing-Impaired">Technoveters</a>
+The project before enhancement and modification was cloned from <a href = "https://github.com/ias1501/Speech-to-Sign-language-converter">Technoveters</a>
 This project is now modified for better and enhanced speech recognition. Also added the program to work in offline mode.
